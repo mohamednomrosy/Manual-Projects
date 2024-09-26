@@ -1,0 +1,6 @@
+Project Content: 
+
+1.Buffalo burger automation cypress Project ==> js file named buffalo_test.cy.js in e2e file
+2.Buffalo burger automation testing report
+3.Buffalo burger exploratory testing report
+4.Buffalo burger ui issues project video
